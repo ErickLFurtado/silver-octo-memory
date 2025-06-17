@@ -1,6 +1,3 @@
-Claro! Abaixo está um esboço de um **README** sobre o padrão de projeto **Singleton**, com os tópicos que você mencionou e espaços indicados para inserir os códigos de exemplo mais tarde:
-
----
 
 # 🧠 Padrão de Projeto: Singleton
 
